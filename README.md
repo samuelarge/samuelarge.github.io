@@ -19,7 +19,7 @@ table, th, td {
 
 <h2>Hetkeseisuga tiimis olevad mängijad</h2>
 
-<table style="width:50%">
+<table style="width:48%">
   <tr>
     <td>Mängusisene nimi</td>
     <td>Päris nimi</td>
