@@ -21,8 +21,8 @@ table, th, td {
 
 <table style="width:43%">
   <tr>
-    <td>Päris nimi</td>
     <td>Mängus olev nimi</td>
+    <td>Päris nimi</td>
     <td>Riik</td>
   </tr>
     <tr>
