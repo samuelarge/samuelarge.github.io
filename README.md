@@ -54,6 +54,6 @@ table, th, td {
 <h2> Pilt mängijatest</h2>
 <img src="https://d1ki6hjeuoplax.cloudfront.net/images/_headerImage/7390634/G2-2022-Roster.webp"
 width="500" height="281">
-<h2>G2 koduleht</h2>
-<a href="https://g2esports.com/">g2esports.com</a>
+<h2>Minu kool</h2>
+<a href="https://taltech.ee/"> </a>
 </body>
