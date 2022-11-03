@@ -22,7 +22,7 @@ table, th, td {
 <table style="width:43%">
   <tr>
     <td>Päris nimi</td>
-    <td>Mängu nimi</td>
+    <td>Mängus olev nimi</td>
     <td>Riik</td>
   </tr>
     <tr>
