@@ -57,4 +57,3 @@ width="500" height="281">
 <h2>G2 koduleht</h2>
 <a href="https://g2esports.com/">g2esports.com</a>
 </body>
-</html>
