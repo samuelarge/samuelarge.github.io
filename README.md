@@ -20,7 +20,7 @@ table, th, td {
 
 <h2>Hetkeseisuga tiimis olevad mängijad</h2>
 
-<table style="width:50%">
+<table style="width:43%">
   <tr>
     <td>Päris nimi</td>
     <td>Mängu nimi</td>
@@ -57,6 +57,4 @@ table, th, td {
 width="500" height="281">
 <h2>G2 koduleht</h2>
 <a href="https://g2esports.com/">g2esports.com</a>
-
 </body>
-</html>
