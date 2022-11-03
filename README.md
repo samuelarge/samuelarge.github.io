@@ -55,5 +55,5 @@ table, th, td {
 <img src="https://d1ki6hjeuoplax.cloudfront.net/images/_headerImage/7390634/G2-2022-Roster.webp"
 width="500" height="281">
 <h2>Minu kool</h2>
-<a href="https://taltech.ee/"> </a>
+<a href="https://taltech.ee/">https://taltech.ee/</a>
 </body>
